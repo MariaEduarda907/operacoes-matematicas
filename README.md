@@ -10,6 +10,8 @@ Realiza através do prompt e alert as seguintes operações:
 - Divisão
 - Multiplicação
 
+Confira [aqui!](https://mariaeduarda907.github.io/operacoes-matematicas/)
+
 ## 🖱Tecnologias
 Tecnologias utilizadas:
 
